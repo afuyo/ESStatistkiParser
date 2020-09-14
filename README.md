@@ -1,6 +1,6 @@
 # xmlparser
 Java / Kotlin app able to process huge xml files.
- Currently it takes gzipped xml file of some logs from wikimedia. Currently it process dansk motorregister(DMR) 80GB XML-file under 19 minutes. 
+ Currently it process dansk motorregister(DMR) 80GB XML-file under 19 minutes. 
 
 # Build
 Run gradle `jar` build task
